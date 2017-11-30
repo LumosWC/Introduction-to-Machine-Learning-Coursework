@@ -1,0 +1,13 @@
+clear;
+problem3c2_PLA_on_raw_data
+clear;
+problem3c2_PLA_on_feature_data
+clear;
+problem3c2_PLAmodified_on_raw_data
+clear;
+problem3c2_PLAmodified_on_feature_data
+clear;
+problem3c3_PLA_on_feature_data_errorminW
+clear;
+problem3c3_PLAmodified_on_feature_data_errorminW
+clear;
